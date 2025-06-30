@@ -28,6 +28,9 @@ This is a simple **To-Do List App** built using **React** as a practice project.
 - localStorage API
 
 ---
+## 📸 Screenshot
+
+![To-Do App Screenshot](./assets/screenshot.png)
 
 ## Setup Instructions
 1. create New folder
